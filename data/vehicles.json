@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Truck",
+        "type": "Truck",
+        "price": "56700",
+        "image": "https:\/\/img.freepik.com\/free-photo\/bright-yellow-truck-with-red-trailer-side-it_1340-32505.jpg"
+    },
+    {
+        "name": "American Truck",
+        "type": "Truck",
+        "price": "6777",
+        "image": "https:\/\/img.freepik.com\/free-photo\/vehicle-move_23-2151846038.jpg"
+    }
+]
